@@ -1,2 +1,10 @@
 This is a bukkit plugin named SolidMode, originally created by Jacob Powers on Github AKA Announcement.
 
+Usage (after adding to /plugin)
+
+#Set the creative world  ( things in all caps are changable )
+/solidmode world CREATIVE
+
+#Turns on fauxcreative for yourself
+/solidmode toggle
+
